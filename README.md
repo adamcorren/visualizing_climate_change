@@ -1,2 +1,2 @@
-# visualizing_climate_change
-Visualizing the Effects of Man-Made Climate Change
+# Visualizing Climate Change
+Visualizing the Effects of Man-Made Climate Change using Tableau, Matplotlib and Seaborn
